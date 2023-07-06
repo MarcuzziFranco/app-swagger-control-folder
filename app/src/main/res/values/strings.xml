@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SwaggerControlFolder</string>
+
+    <string name="btn_txt_check_connection">Check Connection</string>
 </resources>
